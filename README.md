@@ -1,5 +1,3 @@
-Paste your rich text content her
-
 # Cryptocurrency Price Prediction
 
 ## Overview
